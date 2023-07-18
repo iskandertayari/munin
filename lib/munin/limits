@@ -1,0 +1,385 @@
+version v20220328-1368-g35c15e92c6
+onmne-fr-01;localhost;diskstats_latency;sda;avgrdwait;ok OK
+onmne-fr-01;localhost;diskstats_latency;sda;avgrdwait;state ok
+onmne-fr-01;localhost;diskstats_latency;sda;avgwrwait;state ok
+onmne-fr-01;localhost;diskstats_latency;sda;avgwrwait;ok OK
+onmne-fr-01;localhost;diskstats_latency;loop2;avgwrwait;ok OK
+onmne-fr-01;localhost;diskstats_latency;loop2;avgwrwait;state ok
+onmne-fr-01;localhost;diskstats_latency;loop2;avgrdwait;ok OK
+onmne-fr-01;localhost;diskstats_latency;loop2;avgrdwait;state ok
+onmne-fr-01;localhost;diskstats_latency;loop0;avgwrwait;ok OK
+onmne-fr-01;localhost;diskstats_latency;loop0;avgwrwait;state ok
+onmne-fr-01;localhost;diskstats_latency;loop0;avgrdwait;state ok
+onmne-fr-01;localhost;diskstats_latency;loop0;avgrdwait;ok OK
+onmne-fr-01;localhost;diskstats_latency;loop3;avgrdwait;state ok
+onmne-fr-01;localhost;diskstats_latency;loop3;avgrdwait;ok OK
+onmne-fr-01;localhost;diskstats_latency;loop3;avgwrwait;ok OK
+onmne-fr-01;localhost;diskstats_latency;loop3;avgwrwait;state ok
+onmne-fr-01;localhost;diskstats_latency;loop6;avgrdwait;ok OK
+onmne-fr-01;localhost;diskstats_latency;loop6;avgrdwait;state ok
+onmne-fr-01;localhost;diskstats_latency;loop6;avgwrwait;ok OK
+onmne-fr-01;localhost;diskstats_latency;loop6;avgwrwait;state ok
+onmne-fr-01;localhost;diskstats_latency;dm_0;avgrdwait;ok OK
+onmne-fr-01;localhost;diskstats_latency;dm_0;avgrdwait;state ok
+onmne-fr-01;localhost;diskstats_latency;dm_0;avgwrwait;ok OK
+onmne-fr-01;localhost;diskstats_latency;dm_0;avgwrwait;state ok
+onmne-fr-01;localhost;diskstats_latency;loop5;avgwrwait;state ok
+onmne-fr-01;localhost;diskstats_latency;loop5;avgwrwait;ok OK
+onmne-fr-01;localhost;diskstats_latency;loop5;avgrdwait;ok OK
+onmne-fr-01;localhost;diskstats_latency;loop5;avgrdwait;state ok
+onmne-fr-01;localhost;diskstats_latency;loop4;avgwrwait;ok OK
+onmne-fr-01;localhost;diskstats_latency;loop4;avgwrwait;state ok
+onmne-fr-01;localhost;diskstats_latency;loop4;avgrdwait;ok OK
+onmne-fr-01;localhost;diskstats_latency;loop4;avgrdwait;state ok
+onmne-fr-01;localhost;diskstats_latency;loop1;avgrdwait;ok OK
+onmne-fr-01;localhost;diskstats_latency;loop1;avgrdwait;state ok
+onmne-fr-01;localhost;diskstats_latency;loop1;avgwrwait;ok OK
+onmne-fr-01;localhost;diskstats_latency;loop1;avgwrwait;state ok
+onmne-fr-01;localhost;munin_stats;graph;state unknown
+onmne-fr-01;localhost;munin_stats;graph;unknown Value is unknown.
+onmne-fr-01;localhost;munin_stats;update;ok OK
+onmne-fr-01;localhost;munin_stats;update;state ok
+onmne-fr-01;localhost;df_inode;_sys_fs_cgroup;state ok
+onmne-fr-01;localhost;df_inode;_sys_fs_cgroup;ok OK
+onmne-fr-01;localhost;df_inode;overlay;ok OK
+onmne-fr-01;localhost;df_inode;overlay;state ok
+onmne-fr-01;localhost;df_inode;_dev_mapper_ubuntu_vL;state ok
+onmne-fr-01;localhost;df_inode;_dev_mapper_ubuntu_vL;ok OK
+onmne-fr-01;localhost;df_inode;_dev;state ok
+onmne-fr-01;localhost;df_inode;_dev;ok OK
+onmne-fr-01;localhost;df_inode;shm;state ok
+onmne-fr-01;localhost;df_inode;shm;ok OK
+onmne-fr-01;localhost;if_err_eth0;rcvd;ok OK
+onmne-fr-01;localhost;if_err_eth0;rcvd;state ok
+onmne-fr-01;localhost;if_err_eth0;trans;ok OK
+onmne-fr-01;localhost;if_err_eth0;trans;state ok
+onmne-fr-01;localhost;df;_dev;state ok
+onmne-fr-01;localhost;df;_dev;ok OK
+onmne-fr-01;localhost;df;shm;state ok
+onmne-fr-01;localhost;df;shm;ok OK
+onmne-fr-01;localhost;df;overlay;state ok
+onmne-fr-01;localhost;df;overlay;ok OK
+onmne-fr-01;localhost;df;_sys_fs_cgroup;ok OK
+onmne-fr-01;localhost;df;_sys_fs_cgroup;state ok
+onmne-fr-01;localhost;df;_dev_mapper_ubuntu_vL;ok OK
+onmne-fr-01;localhost;df;_dev_mapper_ubuntu_vL;state ok
+onmne-jobs-01;onmne-jobs-01;if_err_br_fb545fb16b26;rcvd;state ok
+onmne-jobs-01;onmne-jobs-01;if_err_br_fb545fb16b26;rcvd;ok OK
+onmne-jobs-01;onmne-jobs-01;if_err_br_fb545fb16b26;trans;ok OK
+onmne-jobs-01;onmne-jobs-01;if_err_br_fb545fb16b26;trans;state ok
+onmne-jobs-01;onmne-jobs-01;if_err_ens160;trans;state ok
+onmne-jobs-01;onmne-jobs-01;if_err_ens160;trans;ok OK
+onmne-jobs-01;onmne-jobs-01;if_err_ens160;rcvd;ok OK
+onmne-jobs-01;onmne-jobs-01;if_err_ens160;rcvd;state ok
+onmne-jobs-01;onmne-jobs-01;munin_stats;graph;state unknown
+onmne-jobs-01;onmne-jobs-01;munin_stats;graph;unknown Value is unknown.
+onmne-jobs-01;onmne-jobs-01;munin_stats;update;state ok
+onmne-jobs-01;onmne-jobs-01;munin_stats;update;ok OK
+onmne-jobs-01;onmne-jobs-01;if_err_docker0;trans;ok OK
+onmne-jobs-01;onmne-jobs-01;if_err_docker0;trans;state ok
+onmne-jobs-01;onmne-jobs-01;if_err_docker0;rcvd;ok OK
+onmne-jobs-01;onmne-jobs-01;if_err_docker0;rcvd;state ok
+onmne-jobs-01;onmne-jobs-01;open_files;used;ok OK
+onmne-jobs-01;onmne-jobs-01;open_files;used;state ok
+onmne-jobs-01;onmne-jobs-01;df_inode;_dev_sda1;state ok
+onmne-jobs-01;onmne-jobs-01;df_inode;_dev_sda1;ok OK
+onmne-jobs-01;onmne-jobs-01;df_inode;_rootfs_dev_shm;ok OK
+onmne-jobs-01;onmne-jobs-01;df_inode;_rootfs_dev_shm;state ok
+onmne-jobs-01;onmne-jobs-01;df_inode;_rootfs_dev;state ok
+onmne-jobs-01;onmne-jobs-01;df_inode;_rootfs_dev;ok OK
+onmne-jobs-01;onmne-jobs-01;df_inode;_sys_fs_cgroup;ok OK
+onmne-jobs-01;onmne-jobs-01;df_inode;_sys_fs_cgroup;state ok
+onmne-jobs-01;onmne-jobs-01;df_inode;_rootfs_run;state ok
+onmne-jobs-01;onmne-jobs-01;df_inode;_rootfs_run;ok OK
+onmne-jobs-01;onmne-jobs-01;df_inode;_dev_mapper_ubuntu_vL;ok OK
+onmne-jobs-01;onmne-jobs-01;df_inode;_dev_mapper_ubuntu_vL;state ok
+onmne-jobs-01;onmne-jobs-01;df_inode;_rootfs_run_lock;ok OK
+onmne-jobs-01;onmne-jobs-01;df_inode;_rootfs_run_lock;state ok
+onmne-jobs-01;onmne-jobs-01;df_inode;overlay;ok OK
+onmne-jobs-01;onmne-jobs-01;df_inode;overlay;state ok
+onmne-jobs-01;onmne-jobs-01;df_inode;_dev;state ok
+onmne-jobs-01;onmne-jobs-01;df_inode;_dev;ok OK
+onmne-jobs-01;onmne-jobs-01;df_inode;shm;ok OK
+onmne-jobs-01;onmne-jobs-01;df_inode;shm;state ok
+onmne-jobs-01;onmne-jobs-01;df;_dev_mapper_ubuntu_vL;state ok
+onmne-jobs-01;onmne-jobs-01;df;_dev_mapper_ubuntu_vL;ok OK
+onmne-jobs-01;onmne-jobs-01;df;_rootfs_run_lock;state ok
+onmne-jobs-01;onmne-jobs-01;df;_rootfs_run_lock;ok OK
+onmne-jobs-01;onmne-jobs-01;df;overlay;state ok
+onmne-jobs-01;onmne-jobs-01;df;overlay;ok OK
+onmne-jobs-01;onmne-jobs-01;df;_dev;ok OK
+onmne-jobs-01;onmne-jobs-01;df;_dev;state ok
+onmne-jobs-01;onmne-jobs-01;df;shm;ok OK
+onmne-jobs-01;onmne-jobs-01;df;shm;state ok
+onmne-jobs-01;onmne-jobs-01;df;_rootfs_dev_shm;state ok
+onmne-jobs-01;onmne-jobs-01;df;_rootfs_dev_shm;ok OK
+onmne-jobs-01;onmne-jobs-01;df;_dev_sda1;ok OK
+onmne-jobs-01;onmne-jobs-01;df;_dev_sda1;state ok
+onmne-jobs-01;onmne-jobs-01;df;_sys_fs_cgroup;state ok
+onmne-jobs-01;onmne-jobs-01;df;_sys_fs_cgroup;ok OK
+onmne-jobs-01;onmne-jobs-01;df;_rootfs_run;ok OK
+onmne-jobs-01;onmne-jobs-01;df;_rootfs_run;state ok
+onmne-fr-02;onmne-fr-02;if_err_br_1469d238c2f9;rcvd;state ok
+onmne-fr-02;onmne-fr-02;if_err_br_1469d238c2f9;rcvd;ok OK
+onmne-fr-02;onmne-fr-02;if_err_br_1469d238c2f9;trans;ok OK
+onmne-fr-02;onmne-fr-02;if_err_br_1469d238c2f9;trans;state ok
+onmne-fr-02;onmne-fr-02;if_err_veth62a0c46;trans;state unknown
+onmne-fr-02;onmne-fr-02;if_err_veth62a0c46;trans;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;if_err_veth62a0c46;rcvd;state unknown
+onmne-fr-02;onmne-fr-02;if_err_veth62a0c46;rcvd;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;if_err_br_9aa173f9573c;trans;state ok
+onmne-fr-02;onmne-fr-02;if_err_br_9aa173f9573c;trans;ok OK
+onmne-fr-02;onmne-fr-02;if_err_br_9aa173f9573c;rcvd;ok OK
+onmne-fr-02;onmne-fr-02;if_err_br_9aa173f9573c;rcvd;state ok
+onmne-fr-02;onmne-fr-02;df;_rootfs_run_lock;state ok
+onmne-fr-02;onmne-fr-02;df;_rootfs_run_lock;ok OK
+onmne-fr-02;onmne-fr-02;df;overlay;state ok
+onmne-fr-02;onmne-fr-02;df;overlay;ok OK
+onmne-fr-02;onmne-fr-02;df;_dev_mapper_ubuntu_vL;state ok
+onmne-fr-02;onmne-fr-02;df;_dev_mapper_ubuntu_vL;ok OK
+onmne-fr-02;onmne-fr-02;df;_dev;state ok
+onmne-fr-02;onmne-fr-02;df;_dev;ok OK
+onmne-fr-02;onmne-fr-02;df;shm;ok OK
+onmne-fr-02;onmne-fr-02;df;shm;state ok
+onmne-fr-02;onmne-fr-02;df;_sys_fs_cgroup;ok OK
+onmne-fr-02;onmne-fr-02;df;_sys_fs_cgroup;state ok
+onmne-fr-02;onmne-fr-02;df;_rootfs_dev_shm;state ok
+onmne-fr-02;onmne-fr-02;df;_rootfs_dev_shm;ok OK
+onmne-fr-02;onmne-fr-02;df;_dev_sda1;ok OK
+onmne-fr-02;onmne-fr-02;df;_dev_sda1;state ok
+onmne-fr-02;onmne-fr-02;df;_rootfs_run;ok OK
+onmne-fr-02;onmne-fr-02;df;_rootfs_run;state ok
+onmne-fr-02;onmne-fr-02;if_err_br_06077239836b;rcvd;ok OK
+onmne-fr-02;onmne-fr-02;if_err_br_06077239836b;rcvd;state ok
+onmne-fr-02;onmne-fr-02;if_err_br_06077239836b;trans;state ok
+onmne-fr-02;onmne-fr-02;if_err_br_06077239836b;trans;ok OK
+onmne-fr-02;onmne-fr-02;if_err_br_d31e64799aec;trans;ok OK
+onmne-fr-02;onmne-fr-02;if_err_br_d31e64799aec;trans;state ok
+onmne-fr-02;onmne-fr-02;if_err_br_d31e64799aec;rcvd;ok OK
+onmne-fr-02;onmne-fr-02;if_err_br_d31e64799aec;rcvd;state ok
+onmne-fr-02;onmne-fr-02;if_err_br_3088bfbd5594;trans;ok OK
+onmne-fr-02;onmne-fr-02;if_err_br_3088bfbd5594;trans;state ok
+onmne-fr-02;onmne-fr-02;if_err_br_3088bfbd5594;rcvd;state ok
+onmne-fr-02;onmne-fr-02;if_err_br_3088bfbd5594;rcvd;ok OK
+onmne-fr-02;onmne-fr-02;if_err_veth0c4f704;rcvd;state unknown
+onmne-fr-02;onmne-fr-02;if_err_veth0c4f704;rcvd;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;if_err_veth0c4f704;trans;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;if_err_veth0c4f704;trans;state unknown
+onmne-fr-02;onmne-fr-02;if_err_veth9724b6a;trans;state unknown
+onmne-fr-02;onmne-fr-02;if_err_veth9724b6a;trans;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;if_err_veth9724b6a;rcvd;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;if_err_veth9724b6a;rcvd;state unknown
+onmne-fr-02;onmne-fr-02;if_err_vethcf23a91;trans;state unknown
+onmne-fr-02;onmne-fr-02;if_err_vethcf23a91;trans;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;if_err_vethcf23a91;rcvd;state unknown
+onmne-fr-02;onmne-fr-02;if_err_vethcf23a91;rcvd;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;if_err_veth8a0274d;rcvd;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;if_err_veth8a0274d;rcvd;state unknown
+onmne-fr-02;onmne-fr-02;if_err_veth8a0274d;trans;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;if_err_veth8a0274d;trans;state unknown
+onmne-fr-02;onmne-fr-02;if_err_veth47a05f8;rcvd;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;if_err_veth47a05f8;rcvd;state unknown
+onmne-fr-02;onmne-fr-02;if_err_veth47a05f8;trans;state unknown
+onmne-fr-02;onmne-fr-02;if_err_veth47a05f8;trans;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;if_err_vethccfd4e3;trans;state unknown
+onmne-fr-02;onmne-fr-02;if_err_vethccfd4e3;trans;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;if_err_vethccfd4e3;rcvd;state unknown
+onmne-fr-02;onmne-fr-02;if_err_vethccfd4e3;rcvd;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;if_err_ens160;rcvd;state ok
+onmne-fr-02;onmne-fr-02;if_err_ens160;rcvd;ok OK
+onmne-fr-02;onmne-fr-02;if_err_ens160;trans;state ok
+onmne-fr-02;onmne-fr-02;if_err_ens160;trans;ok OK
+onmne-fr-02;onmne-fr-02;if_err_veth9db3ad2;rcvd;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;if_err_veth9db3ad2;rcvd;state unknown
+onmne-fr-02;onmne-fr-02;if_err_veth9db3ad2;trans;state unknown
+onmne-fr-02;onmne-fr-02;if_err_veth9db3ad2;trans;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;if_err_veth4e23216;rcvd;state unknown
+onmne-fr-02;onmne-fr-02;if_err_veth4e23216;rcvd;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;if_err_veth4e23216;trans;state unknown
+onmne-fr-02;onmne-fr-02;if_err_veth4e23216;trans;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;if_err_veth3ae0421;rcvd;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;if_err_veth3ae0421;rcvd;state unknown
+onmne-fr-02;onmne-fr-02;if_err_veth3ae0421;trans;state unknown
+onmne-fr-02;onmne-fr-02;if_err_veth3ae0421;trans;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;df_inode;_rootfs_run_lock;state ok
+onmne-fr-02;onmne-fr-02;df_inode;_rootfs_run_lock;ok OK
+onmne-fr-02;onmne-fr-02;df_inode;overlay;state ok
+onmne-fr-02;onmne-fr-02;df_inode;overlay;ok OK
+onmne-fr-02;onmne-fr-02;df_inode;_dev_mapper_ubuntu_vL;state ok
+onmne-fr-02;onmne-fr-02;df_inode;_dev_mapper_ubuntu_vL;ok OK
+onmne-fr-02;onmne-fr-02;df_inode;_dev;state ok
+onmne-fr-02;onmne-fr-02;df_inode;_dev;ok OK
+onmne-fr-02;onmne-fr-02;df_inode;shm;state ok
+onmne-fr-02;onmne-fr-02;df_inode;shm;ok OK
+onmne-fr-02;onmne-fr-02;df_inode;_sys_fs_cgroup;state ok
+onmne-fr-02;onmne-fr-02;df_inode;_sys_fs_cgroup;ok OK
+onmne-fr-02;onmne-fr-02;df_inode;_rootfs_dev_shm;state ok
+onmne-fr-02;onmne-fr-02;df_inode;_rootfs_dev_shm;ok OK
+onmne-fr-02;onmne-fr-02;df_inode;_dev_sda1;ok OK
+onmne-fr-02;onmne-fr-02;df_inode;_dev_sda1;state ok
+onmne-fr-02;onmne-fr-02;df_inode;_rootfs_dev;state ok
+onmne-fr-02;onmne-fr-02;df_inode;_rootfs_dev;ok OK
+onmne-fr-02;onmne-fr-02;df_inode;_rootfs_run;ok OK
+onmne-fr-02;onmne-fr-02;df_inode;_rootfs_run;state ok
+onmne-fr-02;onmne-fr-02;if_err_veth119b0ed;rcvd;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;if_err_veth119b0ed;rcvd;state unknown
+onmne-fr-02;onmne-fr-02;if_err_veth119b0ed;trans;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;if_err_veth119b0ed;trans;state unknown
+onmne-fr-02;onmne-fr-02;munin_stats;graph;unknown Value is unknown.
+onmne-fr-02;onmne-fr-02;munin_stats;graph;state unknown
+onmne-fr-02;onmne-fr-02;munin_stats;update;state ok
+onmne-fr-02;onmne-fr-02;munin_stats;update;ok OK
+onmne-fr-02;onmne-fr-02;if_err_veth678ae1f;trans;state ok
+onmne-fr-02;onmne-fr-02;if_err_veth678ae1f;trans;ok OK
+onmne-fr-02;onmne-fr-02;if_err_veth678ae1f;rcvd;state ok
+onmne-fr-02;onmne-fr-02;if_err_veth678ae1f;rcvd;ok OK
+onmne-fr-02;onmne-fr-02;if_err_docker0;trans;state ok
+onmne-fr-02;onmne-fr-02;if_err_docker0;trans;ok OK
+onmne-fr-02;onmne-fr-02;if_err_docker0;rcvd;ok OK
+onmne-fr-02;onmne-fr-02;if_err_docker0;rcvd;state ok
+onmne-fr-02;onmne-fr-02;open_files;used;state ok
+onmne-fr-02;onmne-fr-02;open_files;used;ok OK
+onmne-db-01;onmne-db-01;if_err_vethb8bc272;trans;unknown Value is unknown.
+onmne-db-01;onmne-db-01;if_err_vethb8bc272;trans;state unknown
+onmne-db-01;onmne-db-01;if_err_vethb8bc272;rcvd;state unknown
+onmne-db-01;onmne-db-01;if_err_vethb8bc272;rcvd;unknown Value is unknown.
+onmne-db-01;onmne-db-01;munin_stats;update;state ok
+onmne-db-01;onmne-db-01;munin_stats;update;ok OK
+onmne-db-01;onmne-db-01;munin_stats;graph;state unknown
+onmne-db-01;onmne-db-01;munin_stats;graph;unknown Value is unknown.
+onmne-db-01;onmne-db-01;open_files;used;ok OK
+onmne-db-01;onmne-db-01;open_files;used;state ok
+onmne-db-01;onmne-db-01;if_err_docker0;trans;state ok
+onmne-db-01;onmne-db-01;if_err_docker0;trans;ok OK
+onmne-db-01;onmne-db-01;if_err_docker0;rcvd;state ok
+onmne-db-01;onmne-db-01;if_err_docker0;rcvd;ok OK
+onmne-db-01;onmne-db-01;if_err_vethf5bf414;rcvd;state unknown
+onmne-db-01;onmne-db-01;if_err_vethf5bf414;rcvd;unknown Value is unknown.
+onmne-db-01;onmne-db-01;if_err_vethf5bf414;trans;state unknown
+onmne-db-01;onmne-db-01;if_err_vethf5bf414;trans;unknown Value is unknown.
+onmne-db-01;onmne-db-01;if_err_br_e7900838fff1;trans;state ok
+onmne-db-01;onmne-db-01;if_err_br_e7900838fff1;trans;ok OK
+onmne-db-01;onmne-db-01;if_err_br_e7900838fff1;rcvd;ok OK
+onmne-db-01;onmne-db-01;if_err_br_e7900838fff1;rcvd;state ok
+onmne-db-01;onmne-db-01;if_err_br_159aada718b7;trans;ok OK
+onmne-db-01;onmne-db-01;if_err_br_159aada718b7;trans;state ok
+onmne-db-01;onmne-db-01;if_err_br_159aada718b7;rcvd;ok OK
+onmne-db-01;onmne-db-01;if_err_br_159aada718b7;rcvd;state ok
+onmne-db-01;onmne-db-01;if_err_ens160;trans;state ok
+onmne-db-01;onmne-db-01;if_err_ens160;trans;ok OK
+onmne-db-01;onmne-db-01;if_err_ens160;rcvd;ok OK
+onmne-db-01;onmne-db-01;if_err_ens160;rcvd;state ok
+onmne-db-01;onmne-db-01;df;shm;ok OK
+onmne-db-01;onmne-db-01;df;shm;state ok
+onmne-db-01;onmne-db-01;df;_dev;ok OK
+onmne-db-01;onmne-db-01;df;_dev;state ok
+onmne-db-01;onmne-db-01;df;_rootfs_run_lock;state ok
+onmne-db-01;onmne-db-01;df;_rootfs_run_lock;ok OK
+onmne-db-01;onmne-db-01;df;overlay;state ok
+onmne-db-01;onmne-db-01;df;overlay;ok OK
+onmne-db-01;onmne-db-01;df;_dev_mapper_ubuntu_vL;ok OK
+onmne-db-01;onmne-db-01;df;_dev_mapper_ubuntu_vL;state ok
+onmne-db-01;onmne-db-01;df;_rootfs_run;ok OK
+onmne-db-01;onmne-db-01;df;_rootfs_run;state ok
+onmne-db-01;onmne-db-01;df;_sys_fs_cgroup;ok OK
+onmne-db-01;onmne-db-01;df;_sys_fs_cgroup;state ok
+onmne-db-01;onmne-db-01;df;_rootfs_dev_shm;state ok
+onmne-db-01;onmne-db-01;df;_rootfs_dev_shm;ok OK
+onmne-db-01;onmne-db-01;df;_dev_sda1;state ok
+onmne-db-01;onmne-db-01;df;_dev_sda1;ok OK
+onmne-db-01;onmne-db-01;df_inode;_rootfs_dev;ok OK
+onmne-db-01;onmne-db-01;df_inode;_rootfs_dev;state ok
+onmne-db-01;onmne-db-01;df_inode;_dev_sda1;ok OK
+onmne-db-01;onmne-db-01;df_inode;_dev_sda1;state ok
+onmne-db-01;onmne-db-01;df_inode;_rootfs_dev_shm;ok OK
+onmne-db-01;onmne-db-01;df_inode;_rootfs_dev_shm;state ok
+onmne-db-01;onmne-db-01;df_inode;_sys_fs_cgroup;state ok
+onmne-db-01;onmne-db-01;df_inode;_sys_fs_cgroup;ok OK
+onmne-db-01;onmne-db-01;df_inode;_rootfs_run;state ok
+onmne-db-01;onmne-db-01;df_inode;_rootfs_run;ok OK
+onmne-db-01;onmne-db-01;df_inode;_dev_mapper_ubuntu_vL;ok OK
+onmne-db-01;onmne-db-01;df_inode;_dev_mapper_ubuntu_vL;state ok
+onmne-db-01;onmne-db-01;df_inode;_rootfs_run_lock;ok OK
+onmne-db-01;onmne-db-01;df_inode;_rootfs_run_lock;state ok
+onmne-db-01;onmne-db-01;df_inode;overlay;state ok
+onmne-db-01;onmne-db-01;df_inode;overlay;ok OK
+onmne-db-01;onmne-db-01;df_inode;shm;state ok
+onmne-db-01;onmne-db-01;df_inode;shm;ok OK
+onmne-db-01;onmne-db-01;df_inode;_dev;ok OK
+onmne-db-01;onmne-db-01;df_inode;_dev;state ok
+onmne-db-01;onmne-db-01;if_err_veth0b4eccf;trans;unknown Value is unknown.
+onmne-db-01;onmne-db-01;if_err_veth0b4eccf;trans;state unknown
+onmne-db-01;onmne-db-01;if_err_veth0b4eccf;rcvd;unknown Value is unknown.
+onmne-db-01;onmne-db-01;if_err_veth0b4eccf;rcvd;state unknown
+onmne-db-02;onmne-db-02;if_err_docker0;trans;ok OK
+onmne-db-02;onmne-db-02;if_err_docker0;trans;state ok
+onmne-db-02;onmne-db-02;if_err_docker0;rcvd;state ok
+onmne-db-02;onmne-db-02;if_err_docker0;rcvd;ok OK
+onmne-db-02;onmne-db-02;open_files;used;state ok
+onmne-db-02;onmne-db-02;open_files;used;ok OK
+onmne-db-02;onmne-db-02;if_err_veth3aa50f8;trans;unknown Value is unknown.
+onmne-db-02;onmne-db-02;if_err_veth3aa50f8;trans;state unknown
+onmne-db-02;onmne-db-02;if_err_veth3aa50f8;rcvd;state unknown
+onmne-db-02;onmne-db-02;if_err_veth3aa50f8;rcvd;unknown Value is unknown.
+onmne-db-02;onmne-db-02;if_err_vethe422dce;rcvd;state unknown
+onmne-db-02;onmne-db-02;if_err_vethe422dce;rcvd;unknown Value is unknown.
+onmne-db-02;onmne-db-02;if_err_vethe422dce;trans;state unknown
+onmne-db-02;onmne-db-02;if_err_vethe422dce;trans;unknown Value is unknown.
+onmne-db-02;onmne-db-02;if_err_vethf5e6391;rcvd;state unknown
+onmne-db-02;onmne-db-02;if_err_vethf5e6391;rcvd;unknown Value is unknown.
+onmne-db-02;onmne-db-02;if_err_vethf5e6391;trans;state unknown
+onmne-db-02;onmne-db-02;if_err_vethf5e6391;trans;unknown Value is unknown.
+onmne-db-02;onmne-db-02;munin_stats;update;state ok
+onmne-db-02;onmne-db-02;munin_stats;update;ok OK
+onmne-db-02;onmne-db-02;munin_stats;graph;state unknown
+onmne-db-02;onmne-db-02;munin_stats;graph;unknown Value is unknown.
+onmne-db-02;onmne-db-02;if_err_veth51d364c;trans;unknown Value is unknown.
+onmne-db-02;onmne-db-02;if_err_veth51d364c;trans;state unknown
+onmne-db-02;onmne-db-02;if_err_veth51d364c;rcvd;unknown Value is unknown.
+onmne-db-02;onmne-db-02;if_err_veth51d364c;rcvd;state unknown
+onmne-db-02;onmne-db-02;df_inode;shm;state ok
+onmne-db-02;onmne-db-02;df_inode;shm;ok OK
+onmne-db-02;onmne-db-02;df_inode;_dev;ok OK
+onmne-db-02;onmne-db-02;df_inode;_dev;state ok
+onmne-db-02;onmne-db-02;df_inode;_dev_mapper_ubuntu_vL;ok OK
+onmne-db-02;onmne-db-02;df_inode;_dev_mapper_ubuntu_vL;state ok
+onmne-db-02;onmne-db-02;df_inode;_rootfs_run_lock;ok OK
+onmne-db-02;onmne-db-02;df_inode;_rootfs_run_lock;state ok
+onmne-db-02;onmne-db-02;df_inode;overlay;state ok
+onmne-db-02;onmne-db-02;df_inode;overlay;ok OK
+onmne-db-02;onmne-db-02;df_inode;_rootfs_run;state ok
+onmne-db-02;onmne-db-02;df_inode;_rootfs_run;ok OK
+onmne-db-02;onmne-db-02;df_inode;_rootfs_dev;state ok
+onmne-db-02;onmne-db-02;df_inode;_rootfs_dev;ok OK
+onmne-db-02;onmne-db-02;df_inode;_dev_sda1;state ok
+onmne-db-02;onmne-db-02;df_inode;_dev_sda1;ok OK
+onmne-db-02;onmne-db-02;df_inode;_rootfs_dev_shm;state ok
+onmne-db-02;onmne-db-02;df_inode;_rootfs_dev_shm;ok OK
+onmne-db-02;onmne-db-02;df_inode;_sys_fs_cgroup;state ok
+onmne-db-02;onmne-db-02;df_inode;_sys_fs_cgroup;ok OK
+onmne-db-02;onmne-db-02;df;_sys_fs_cgroup;ok OK
+onmne-db-02;onmne-db-02;df;_sys_fs_cgroup;state ok
+onmne-db-02;onmne-db-02;df;_rootfs_dev_shm;ok OK
+onmne-db-02;onmne-db-02;df;_rootfs_dev_shm;state ok
+onmne-db-02;onmne-db-02;df;_dev_sda1;ok OK
+onmne-db-02;onmne-db-02;df;_dev_sda1;state ok
+onmne-db-02;onmne-db-02;df;_rootfs_run;state ok
+onmne-db-02;onmne-db-02;df;_rootfs_run;ok OK
+onmne-db-02;onmne-db-02;df;_rootfs_run_lock;ok OK
+onmne-db-02;onmne-db-02;df;_rootfs_run_lock;state ok
+onmne-db-02;onmne-db-02;df;overlay;ok OK
+onmne-db-02;onmne-db-02;df;overlay;state ok
+onmne-db-02;onmne-db-02;df;_dev_mapper_ubuntu_vL;ok OK
+onmne-db-02;onmne-db-02;df;_dev_mapper_ubuntu_vL;state ok
+onmne-db-02;onmne-db-02;df;shm;ok OK
+onmne-db-02;onmne-db-02;df;shm;state ok
+onmne-db-02;onmne-db-02;df;_dev;state ok
+onmne-db-02;onmne-db-02;df;_dev;ok OK
+onmne-db-02;onmne-db-02;if_err_br_b9e24676d4d2;trans;ok OK
+onmne-db-02;onmne-db-02;if_err_br_b9e24676d4d2;trans;state ok
+onmne-db-02;onmne-db-02;if_err_br_b9e24676d4d2;rcvd;ok OK
+onmne-db-02;onmne-db-02;if_err_br_b9e24676d4d2;rcvd;state ok
+onmne-db-02;onmne-db-02;if_err_ens160;rcvd;ok OK
+onmne-db-02;onmne-db-02;if_err_ens160;rcvd;state ok
+onmne-db-02;onmne-db-02;if_err_ens160;trans;state ok
+onmne-db-02;onmne-db-02;if_err_ens160;trans;ok OK
